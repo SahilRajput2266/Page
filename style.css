@@ -1,0 +1,66 @@
+.headding{
+  color: blue;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.headdding{
+  font-family: 'Dancing Script';
+}
+
+.details {
+    width: 100%;
+   bottom: -145px;
+   background: white;
+   padding: 10px;
+   box-sizing: border-box;
+   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+   transition: 0.5s;
+  
+}
+.details h1 {
+   margin: 0;
+   padding: 0;
+   font-size: 18px;
+   width: 100%;
+}
+.details h1 span {
+   font-size: 14px;
+   color: rgb(141, 137, 137);
+   font-weight: normal;
+}
+.details .price {
+   
+   top: 10px;
+   right: 20px;
+   font-weight: bold;
+   color: #04456f;
+   font-size: 20px;
+}
+
+
+.card button:hover{
+    color:black;
+    transform: scale(1.1,1.1);
+}
+.cardh:hover{
+   
+    transform: scale(1.05,1.05);
+   
+    filter: drop-shadow(6px 6px 9px rgb(218, 211, 211));
+}
+.hhh{
+    margin-top: 5px;
+}
+.hhh:hover{
+    filter: drop-shadow(4px 4px 6px rgb(9, 219, 226));
+}
+strike{
+    color: rgba(39, 35, 35, 0.432);
+}
+body{
+    background-color: rgb(86, 121, 151);
+}
+
+
